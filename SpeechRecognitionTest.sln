@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechRecognitionTest", "SpeechRecognitionTest\SpeechRecognitionTest.csproj", "{AA957B13-5AC1-4D7D-B71E-95A5DF4FDF84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA957B13-5AC1-4D7D-B71E-95A5DF4FDF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA957B13-5AC1-4D7D-B71E-95A5DF4FDF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA957B13-5AC1-4D7D-B71E-95A5DF4FDF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA957B13-5AC1-4D7D-B71E-95A5DF4FDF84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {532AC821-1C5B-4348-8B21-C5A670D3BADF}
+	EndGlobalSection
+EndGlobal
